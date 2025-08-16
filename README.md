@@ -141,6 +141,7 @@ A partir del análisis exploratorio y los mapas de calor que construimos, se ide
   Fomentar el uso de métodos de pago automáticos, que correlacionan con menor churn.
 
 
-Accede a los datos de la API
+
+** Accede a los datos de la API **
   
-https://github.com/alura-cursos/challenge2-data-science-LATAM.git
+* https://github.com/alura-cursos/challenge2-data-science-LATAM.git *
